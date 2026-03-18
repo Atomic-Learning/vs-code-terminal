@@ -1,22 +1,17 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Using the Terminal in VS Code",
+    "slug": "vs-code-terminal",
+    "description": "An introduction to using the terminal in VS Code.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "vs-code"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "command-line-interface-introduction"
     ]
 }
