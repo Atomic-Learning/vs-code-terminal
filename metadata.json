@@ -6,12 +6,14 @@
         "chris-cooling"
     ],
     "tags": [
-        "vs-code"
+        "vs-code",
+        "codespace"
     ],
-    "duration": 2,
+    "duration": 5,
     "prerequisites": [
+        "command-line-interface-introduction",
+        "atomic-learning-codespaces"
     ],
     "related": [
-        "command-line-interface-introduction"
     ]
 }
