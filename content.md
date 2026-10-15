@@ -1,4 +1,4 @@
-VS Code Contains a built-in terminal that allows you to run commands and scripts directly within the editor. You can open the terminal by opening the "Terminal" menu and clicking "New Terminal" or by pressing <kbd>Ctrl</kbd> + <kbd>'</kbd>.
+VS Code Contains a built-in terminal that allows you to run commands and scripts directly within the editor. You can open the terminal by opening the "Terminal" menu and clicking "New Terminal" or by pressing `Ctrl`{.kbd} + `'`{.kbd}.
 
 # Multiple Terminals
 
